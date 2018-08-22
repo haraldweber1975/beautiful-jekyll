@@ -73,27 +73,28 @@ author:
 social-network-links:
   rss: false
   email: "social AT haraldweber.net"
-  #facebook: daattali
-  github: haraldweber1975
   twitter: harry_1975
+  instagram: harald459
+  github: haraldweber1975
+  steam: hweber
+  linkedin: harald-weber-2ba872125
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: harald-weber-2ba872125
+#  facebook: daattali  
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: harald459
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-  steam: hweber
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  instagram: true
+  facebook: false
   google: false
   linkedin: true
 
