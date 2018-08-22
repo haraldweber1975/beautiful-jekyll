@@ -3,7 +3,8 @@ layout: post
 published: true
 title: Why github pages?
 subtitle: reaching the goal with some obstacles
-date: '2018-08-23'
+image: img/github-pages.jpg
+
 ---
 This post will tell you why and how I started to blog on GitHub Pages
 
@@ -52,5 +53,9 @@ I like this theme: [daattali/beautiful-jekyll](https://github.com/daattali/beaut
 3. Rename your cloned repository to **<yourgitusername>.github.io**
   
 That's really all you need to do to have a jekyll powered website hosted in GitHub Pages.
+
 {: .box-note}
 **Note:** Your page will be reachable with a sexy url of <yourgitusername>.github.io
+  
+How to continue from here - please watch out for my next post where I'll show you which files I modified
+
