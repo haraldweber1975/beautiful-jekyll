@@ -36,7 +36,7 @@ To summarize I'm looking for a
 5. Write via Browser / console / mobile device
 6. No database to worry about in case of "moving on"
 
-## Some mistakes I did
+## Some mistakes I made
 
 I first thought you need to utilize git (the command line tool for sync code with GitHub) and it was fun to learn how it works. It's not a very convenient way to maintain a blog.
 **wrong**
