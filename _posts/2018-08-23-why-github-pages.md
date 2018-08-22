@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Why github pages?
-subtitle: reaching the goal with some obstacles
+subtitle: from zero to hero in 3 mintes
 image: img/github-pages.jpg
 
 ---
