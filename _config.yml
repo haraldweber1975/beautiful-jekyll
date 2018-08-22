@@ -24,7 +24,7 @@ description: just my 2 cents...
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
