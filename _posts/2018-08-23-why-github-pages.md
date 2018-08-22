@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Why github pages?
 subtitle: reaching the goal with some obstacles
-image: img/github-pages.jpg
+image: img/jekyll_ghp.png
 
 ---
 This post will tell you why and how I started to blog on GitHub Pages
