@@ -52,10 +52,11 @@ So this is how my blog is currently set up.
 I like this theme: [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
 3. Rename your cloned repository to **<yourgitusername>.github.io**
   
-That's really all you need to do to have a jekyll powered website hosted in GitHub Pages.
+That's really all you need to do to have a jekyll powered website hosted on GitHub Pages.
 
 {: .box-note}
-**Note:** Your page will be reachable with a sexy url of <yourgitusername>.github.io
+**Note:** Your page will be reachable with a sexy url of http://**yourgitusername**.github.io
+You even get a free ssl certificate powered by [LetsEncrypt](https://letsencrypt.org)
   
-How to continue from here - please watch out for my next post where I'll show you which files I modified
+How to continue from here - please watch out for my next post where I'll show you how to customize your site.
 
