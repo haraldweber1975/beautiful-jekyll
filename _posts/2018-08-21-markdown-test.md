@@ -2,6 +2,7 @@
 layout: post
 title: Markdown Test
 subtitle: Each post can have a subtitle
+image: /img/kramdown.png
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [markdown, test]
