@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Test
 subtitle: Each post can have a subtitle
-image: /img/markdown-logo.png
+image: /img/markdown.jpg
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [markdown, test]
@@ -78,6 +78,6 @@ You can add notification, warning and error boxes like this:
 **Error:** This is an error box.
 
 ## Abbreviations
-Let's see if the abbreviation for HTML will work
+Let's see if the abbreviation for HTML will work. Simply hover over the HTML text.
 
 *[HTML]:Hyper Text Markup Language
