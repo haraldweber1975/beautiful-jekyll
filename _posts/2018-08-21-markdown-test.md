@@ -12,11 +12,10 @@ Experimenting with markdown in this post.
 [This Link](https://kramdown.gettalong.org/quickref.html) provides a quick reference to Kramdown, which is the markdown dialect used by jekyll.
 
 ## Text formating
-Bold Text
+Bold Text  
 **The quick brown fox jumps over the lazy dog**
 
-Italic Text
-
+Italic Text  
 _The quick brown fox jumps over the lazy dog_
 
 Here's a useless table:
