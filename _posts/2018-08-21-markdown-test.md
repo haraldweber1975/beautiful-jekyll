@@ -1,17 +1,22 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Markdown Test
+subtitle: Each post can have a subtitle
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
-tags: [test]
+tags: [markdown, test]
 ---
+Experimenting with markdown in this post.
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+[This Link](https://kramdown.gettalong.org/quickref.html) provides a quick reference to Kramdown, which is the markdown dialect used by jekyll.
 
-**Here is some bold text**
+## Text formating
+Bold Text
+**The quick brown fox jumps over the lazy dog**
 
-## Here is a secondary heading
+Italic Text
+
+_The quick brown fox jumps over the lazy dog_
 
 Here's a useless table:
 
@@ -23,7 +28,7 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+Embedding a remote picture
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
@@ -71,3 +76,8 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+## Abbreviations
+Let's see if the abbreviation for HTML will work
+
+*[HTML]:Hyper Text Markup Language
