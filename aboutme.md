@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-bigimg: "/img/bg_bird1.jpg"
+bigimg: "/img/bg_bird1.jpg, bg_sunrise1, bg_sunrise2"
 subtitle:
 ---
 
