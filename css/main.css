@@ -216,6 +216,22 @@ img {
   padding-right: max(15px, env(safe-area-inset-right));
 }
 
+/*Google Search in Navbar*/
+.nav-search-link .nav-search-icon {
+      display: none;
+}
+.nav-search-link .nav-search-text {
+      display: inline;
+}
+@media only screen and (min-width: 768px) {
+  .nav-search-link .nav-search-icon {
+    display: inline;
+  }
+  .nav-search-link .nav-search-text {
+        display: none;
+  }
+}
+
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {
   position: relative;
