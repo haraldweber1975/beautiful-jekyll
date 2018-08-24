@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+bigimg: /img/bg_sunrise1.jpg
 subtitle:
 ---
 
