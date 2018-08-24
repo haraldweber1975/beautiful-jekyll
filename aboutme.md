@@ -4,8 +4,8 @@ title: About me
 bigimg:
  - "/img/bg_bird1.jpg" : "Little bird"
  - "/img/bg_moon1.jpg" : "Moon"
- - "/img/bg_family1.jpg" : "My Family"
- - "/img/bg_kids2.jpg" : "My Kids"
+ - "/img/bg_family1.JPG" : "My Family"
+ - "/img/bg_kids2.JPG" : "My Kids"
 ---
 
 I am Harald, living in a small town called Illertissen near Ulm in Germany - Earth.
