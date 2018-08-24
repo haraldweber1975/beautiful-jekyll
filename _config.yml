@@ -58,9 +58,9 @@ avatar: "/img/harry.jpeg"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/bgimage.png"
-footer-img: "/img/bgimage.png"
-page-img: "/img/bg_moon1.jpg"
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bg_moon1.jpg"
 
 # --- Footer options --- #
 
