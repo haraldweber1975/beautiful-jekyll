@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-bigimg: [{src: "/img/bg_bird1.jpg}, {src: "/img/bg_sunrise1"}, {src: "/img/bg_sunrise2"}]
+bigimg: [{src: "/img/bg_bird1.jpg", desc: "Little bird"}, {src: "/img/bg_sunrise1", desc: "Sunrise in Illertissen"}, {src: "/img/bg_sunrise2", desc: "Sunrise in Illertissen"}]
 subtitle:
 ---
 
