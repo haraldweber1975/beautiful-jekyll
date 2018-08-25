@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me
+title:
+subtitle: about me
 show-avatar: false
 bigimg:
  - "/img/bg_sunrise1.jpg" : "Sunrise over Illertissen"
