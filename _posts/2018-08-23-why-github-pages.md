@@ -4,6 +4,7 @@ published: true
 title: Why github pages?
 subtitle: from zero to hero in 3 mintes
 image: /img/github3.jpg
+share-img: /img/github3.jpg
 tags: [github pages]
 ---
 This post will tell you why and how I started to blog on GitHub Pages
