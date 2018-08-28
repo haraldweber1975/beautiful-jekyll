@@ -74,13 +74,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-#  rss: false
 # email: "social AT haraldweber.net"
   twitter: harry_1975
   instagram: harald459
 # github: haraldweber1975
   steam: hweber
   linkedin: harald-weber-2ba872125
+  rss: false
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  facebook: daattali  
