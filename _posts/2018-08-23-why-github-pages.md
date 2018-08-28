@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Why github pages?
+title: Why GitHub pages?
 subtitle: from zero to hero in 3 mintes
 image: /img/github3.jpg
 share-img: /img/github3.jpg
@@ -47,11 +47,11 @@ I first thought you need to utilize git (the command line tool for sync code wit
 You can simply clone a suitable repository and then change files directly on GitHub - no need for local installation of Jekyll + git.
 GitHub Pages already provides Jekyll.
 
-Next I was looking for a nice theme. With wordpress it's quite simple to change the theme of your blog - in Jekyll it's not. Or let's say I didn't find a convenient "on-click" solution.
+Next I was looking for a nice theme. With wordpress it's quite simple to change the theme of your blog - in Jekyll it's not. Or let's say I didn't find a convenient "one-click" solution.
 
 ## Current simplified Setup
 
-Simplifying things is key to keep you motivated - in my opinion.
+Simplifying things is key to keep you motivated in my opinion.
 So this is how my blog was set up.
 
 1. Create github account on github.com
