@@ -3,6 +3,7 @@ layout: page
 title: about me
 subtitle: null
 show-avatar: false
+comments: true
 bigimg:
   - /img/bg_sunrise1.jpg: Sunrise over Illertissen
   - /img/bg_kids1.jpg: My Kids
