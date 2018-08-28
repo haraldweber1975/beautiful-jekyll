@@ -21,14 +21,15 @@ Solus comes in 3 editions. Budgie, Mate, Gnome - I have chosen the "Budgie" edit
 ## First Impression
 It is starting fast - really fast!
 ### Clean UI
-### Appstore
+### Appstore (Software Center)
 ### Searching
 ### Updates
 
-## Installing useful tools
-Solus comes with a vast number of installed applications like 
+## Installing additional software
+Solus comes with a **vast number** of installed applications like 
 - Libre office
 - 
+In addition I installed these applications:
 Searching / App launcher: Albert
 Email Client: Geary
 Browser: Opera
@@ -36,4 +37,15 @@ Password manager: Enpass
 Communication: Skype
 Gaming: Steam
 Remote support: AnyDesk
+ISO image handling: Etcher
+Virtualisation: Oracle VM VirtualBox
+Picture editing: gthumb Image Viewer
 
+### SNAP support (similar to .EXE files on Windows)
+## Solus is Desktop oriented - so what about services like SMB / Squid / etc...
+I was playing around with docker by accident and guess what - it's also available on Solus.
+
+My way to install a "Service" on Solus is simply utilizing Docker / Docker-Compose. Working great!
+
+## Resume
+I like it so much - I even installed the OS bare-metal on an older notebook (with a SSD drive) and didn't regreg it. The next linux distribution I'll install on my parent's PC will be solus of course.
