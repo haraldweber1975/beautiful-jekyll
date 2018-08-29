@@ -46,7 +46,6 @@ Wishfull thinking... Updates should be installable with least possible end-user 
 
 * Installation
 Solus comes in 3 editions. Budgie, Mate, Gnome - I have chosen the "Budgie" edition simply 'cause I have the impression this is where the developers put most effort in
-
 Next you need to decide how to install.
 
 ** Install on VirtualBox
