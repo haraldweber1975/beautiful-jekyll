@@ -13,56 +13,53 @@ No matter if you're a linux fanbox or a newbie: If you want to try out a new des
 1. Table of contents will appear below
 {:toc}
 
-* Installing linux for fun
+# Installing linux for fun
 
-Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack: [Solus Project][Solus]. 
-
+Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack: [Solus Project][Solus].  
 You can find a lot of detailled information about this distribution on [Distrowatch.com][Distrowatch]
 [Distrowatch][Distrowatch] also maintains a list of popularity based on site-hits on distrowatch.
 As of July 29th 2018 Solus ranked on **place 6 on their list** (considering data of the last 12 month).
 
 
-* requirements to the OS
+# requirements to the OS
 
 I always ask myself: Is it suitable for my parents?  
 They are 70+ and total computer noobs. In other words - to OS need to be noob-proof :)
 
-
-** rolling release - install once, upgrade forever
+## rolling release - install once, upgrade forever
 
 Every OS has its lifetime and after Windows XP reached the end of its live I moved my parents on Elementary OS as they didn't want to pay for a copy of Windows 7/8/10...
-
 Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do an in-line upgrade. Fresh install... time consuming and I need to ensure that every Icon / File / Link is available in the new OS.
-
 {: .box-note}
 In Solus you will not face this issue as it is a rolling-release Operating System.  
-**Install once - upgrade forever**.
 
-** Remote support
+## Install once - upgrade forever**.
+
+## Remote support
 With Elementary I was always strugling with a proper 1-click remote-support solution. This is available in Solus through the 3rd-Party apps: **Anydesk**
 
-** Zero maintenance
+## Zero maintenance
 Wishfull thinking... Updates should be installable with least possible end-user involvement. Solus is doing a good job in notifying you about available updates.
 
-* Installation
+# Installation
 Solus comes in 3 editions. Budgie, Mate, Gnome - I have chosen the "Budgie" edition simply 'cause I have the impression this is where the developers put most effort in
 Next you need to decide how to install.
 
-** Install on VirtualBox
+## Install on VirtualBox
 Start with this if you just want to do a **test-drive**.
 It's usually the easiest way to test-drive [Solus]
 As usual somebody already created a [Youtube video] (https://www.youtube.com/watch?v=8UgduvZQVpY) for this.
 
-** Install on bare-metal
+## Install on bare-metal
 If you have spare notebook / PC, this is the recommended way. Solus in native speed without the overhead of virtualisation.
 
-** Install on top of an existing OS (Dual/Multi boot)
+## Install on top of an existing OS (Dual/Multi boot)
 There's an ilustrated howto avaliable on [Wikihow](https://www.wikihow.com/Install-Solus).
 I don't like the idea of having 2 OS on the same machine.  
 It's just a matter of time till one of the OS is killing the bootloader - Especially if you have Windows installed as primary/secondary OS.  
 Better use a Virtualisation system like Virtualbox.
 
-** The Installer
+## The Installer
 As all modern Linux Operating systems [Solus] comes with a graphical installer asking you some basic questions like language settings, timezone, etc... No issues at all
 
 After a couple of minutes the system boots and you can login with the user-account you created during setup.
