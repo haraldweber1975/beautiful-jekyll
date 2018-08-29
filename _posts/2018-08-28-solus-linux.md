@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Solus Linux
+title: Review Solus Linux 3
 subtitle: Best in class Desktop Linux OS I've ever used
 date: '2018-08-28'
 image: /img/solus-logo.jpg
