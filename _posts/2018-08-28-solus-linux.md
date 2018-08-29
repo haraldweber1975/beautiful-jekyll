@@ -16,8 +16,8 @@ No matter if you're a linux fanbox or a newbie: If you want to try out a new des
 # Installing linux for fun
 
 Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack: [Solus Project][Solus].  
-You can find a lot of detailled information about this distribution on [Distrowatch.com][Distrowatch]
-[Distrowatch][Distrowatch] also maintains a list of popularity based on site-hits on distrowatch.
+You can find a lot of detailled information about this distribution on [Distrowatch]
+They also maintain a list of Operating systems by popularity (based on distrowatch site-hits).
 As of July 29th 2018 Solus ranked on **place 6 on their list** (considering data of the last 12 month).
 
 
