@@ -11,6 +11,8 @@ Experimenting with markdown in this post.
 
 [This Link](https://kramdown.gettalong.org/quickref.html) provides a quick reference to Kramdown, which is the markdown dialect used by jekyll.
 
+1. TOC
+{:toc}
 ## Text formating
 Bold Text  
 **The quick brown fox jumps over the lazy dog**
