@@ -8,7 +8,7 @@ image: /img/solus-logo.jpg
 ---
 No matter if you're a linux fanbox or a newbie: If you want to try out a new desktop oriented linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
 
-1. Table of contents
+* Table of contents will appear below
 {:toc}
 
 ## Installing linux for fun
