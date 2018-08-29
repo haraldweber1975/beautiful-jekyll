@@ -11,7 +11,7 @@ No matter if you're a linux fanbox or a newbie: If you want to try out a new des
 1. Table of contents
 {:toc}
 
-# Installing linux for fun
+## Installing linux for fun
 
 Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack: [Solus Project][Solus]. 
 
