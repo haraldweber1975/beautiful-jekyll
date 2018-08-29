@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Review Solus Linux 3
 subtitle: Best in class Desktop Linux OS I've ever used
 date: '2018-08-28'
@@ -33,8 +33,7 @@ Now after approx 4 years it's time to install a new version of Elementary. Unfor
 
 {: .box-note}
 In Solus you will not face this issue as it is a rolling-release Operating System.  
-
-## Install once - upgrade forever**.
+**Install once - upgrade forever**
 
 ## Remote support
 With Elementary I was always strugling with a proper 1-click remote-support solution. This is available in Solus through the 3rd-Party apps: **Anydesk**
