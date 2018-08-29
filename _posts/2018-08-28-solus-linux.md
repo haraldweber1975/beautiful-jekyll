@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Solus Linux
 subtitle: Best in class Desktop Linux OS I ever tried out
 date: '2018-08-28'
@@ -8,20 +8,21 @@ image: /img/solus-logo.jpg
 ---
 No matter if you're a linux fanbox or a newbie: If you want to try out a new desktop oriented linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
 
+{:toc}
 
-## Intro
+## Installing linux for fun
 
 Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack: [Solus Project][Solus]. 
 
 You can find a lot of detailled information about this distribution on [Distrowatch.com][Distrowatch]
 [Distrowatch][Distrowatch] also maintains a list of popularity based on site-hits on distrowatch.
-As of July 29th 2018 Solus ranked on **place 6 of this list** (considering data of the last 12 month).
+As of July 29th 2018 Solus ranked on **place 6 on their list** (considering data of the last 12 month).
 
 
-## My use case
+## My requirements to the OS
 
 I always ask myself: Is it suitable for my parents?  
-They are 70+ and total computer noobs.
+They are 70+ and total computer noobs. In other words - to OS need to be noob-proof :)
 
 
 ### OS lifecylce? Enf of support? Not with rolling release Solus
@@ -38,6 +39,7 @@ In Solus you will not face this issue as it is a rolling-release Operating Syste
 With Elementary I was always strugling with a proper 1-click remote-support solution. This is available in Solus through the 3rd-Party apps: **Anydesk**
 
 ### Zero maintenance
+
 
 ## Installation
 Solus comes in 3 editions. Budgie, Mate, Gnome - I have chosen the "Budgie" edition simply 'cause I have the impression this is where the developers put most effort in
