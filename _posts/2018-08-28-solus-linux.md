@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Review Solus Linux 3
 subtitle: Best in class Desktop Linux OS I've ever used
 date: '2018-08-28'
@@ -38,7 +38,7 @@ In Solus you will not face this issue as it is a rolling-release Operating Syste
 ## Remote support
 With Elementary I was always strugling with a proper 1-click remote-support solution. This is available in Solus through the 3rd-Party apps: **Anydesk**
 
-## Zero maintenance
+## Minimal maintenance through end-user
 Wishfull thinking... Updates should be installable with least possible end-user involvement. Solus is doing a good job in notifying you about available updates.
 
 # Installation
@@ -60,30 +60,21 @@ It's just a matter of time till one of the OS is killing the bootloader - Especi
 Better use a Virtualisation system like Virtualbox.
 
 ## The Installer
-As all modern Linux Operating systems [Solus] comes with a graphical installer asking you some basic questions like language settings, timezone, etc... No issues at all
+As all modern Linux Operating systems [Solus] comes with a graphical installer. [Solus] will boot into a live system and you can start the installer from a desktop link.
+The Installer will ask you some basic questions like language settings, timezone, etc... No issues at all.
 
 After a couple of minutes the system boots and you can login with the user-account you created during setup.
 
-** SNAP support (similar to .EXE files on Windows)
 
-** Docker to the help: Run services like Squid / Nextcloud / nginx / Apache...
-If you're using an Ubuntu based system you have access to literaly millians of packages.
-For the majority of end-users it's simply too much. Therefore I appreciate the approach of Solus to NOT integrate as many services as possible. There are other Linux distributions for that.
-
-I was playing around with docker by accident and guess what - it's also available on Solus.
-My way to install a "Service" on Solus is simply utilizing Docker / Docker-Compose. Works great and keeps your system clean and lean (no need to install a huge number of dependencies on your Desktop PC).
-
-
-* First Impression
+# First Impression after booting into your new system
 It is starting fast - really fast!
 
-** Clean UI
-** Appstore (Software Center)
-** Searching
-** Updates
+## Unclulttered desktop, well structure menu
 
-* Installing additional software
-Solus comes with a **vast number** of installed applications like 
+## Appstore (Software Center)
+
+# Installing Software
+Solus comes with a vast number of already pre-installed applications like 
 - **Libre office** which will cover all your "office" needs like writing, presenting, calculating and drawing 
 - **Archive Manager** to handle ZIP archives
 - **Firefox or WEB** to browser the web
@@ -93,25 +84,37 @@ Solus comes with a **vast number** of installed applications like
 - **Files** to manage your files (another surprising name)
 - **Videos** to view ... guess what
 
+## Recommended software to install
 I installed additional applications to make the system even more suitable for my needs.
 
-- **Alber** to quickly search applications, basic math and quick translations without leaving the keyboard
-- **Geary** a beautiful email client (I knew this one from Elementary OS)
-- **Opera** to browse the web with style // adblocker // vpn
+- **Albert** to quickly search applications, basic math and quick translations without leaving the keyboard
+- **Geary** a beautiful and minimal email client (The default email client on Elementary OS)
+- **Opera** to browse the web with style, adblocker, optional free-of-charge vpn
 - **Dropbox** online storage with easy sharing options
 - **Enpass** to manage the 174 passwords I have
-- **Skype** to do cross-platform text / video chats
-- **Steam** for basic gaming (hardware is not suitable for latest 3D Shooters)
-- **AnyDesk** to manage machines remotely
+- **Skype** to do cross-platform text and video chats
+- **Steam** for gaming
+- **AnyDesk** to manage a machine remotely
 - **Etcher** the easiest tool to write ISO images on USB thumb drives
-- **Oracle Virtualbox** to run virtual machines on linux
-- **gthumb Image Viewer** enables you to not only view, but also crop / resize / optimize pictures
+- **Oracle Virtualbox** and **Virtualbox Extensions** to run virtual machines on linux (this will not make sense if you're already running Solus on a virtual machine.
+- **gthumb Image Viewer** enables you to view images and do basic adjustments (crop / resize / colour, etc...)
 
 
-* Resume
-I like it so much - I even installed the OS bare-metal on an older notebook (with a SSD drive) and didn't regret it. The next linux distribution I'll install on my parent's PC will be Solus of course.
+## SNAP support (similar to .EXE files on Windows)
+The SNAP system (by Utuntu) provides the possibility to run applications without the need to install all required dependencies on your main system.
 
-THANK YOU SOLUS TEAM FOR YOUR INCREDIBLE WORK!!
+## Docker to the help: Run services like Squid / Nextcloud / nginx / Apache...
+If you're using an Ubuntu based system you have access to literaly millians of packages.
+For the majority of end-users it's simply too much. Therefore I appreciate the approach of Solus to NOT integrate as many services as possible. There are other Linux distributions for that.
+
+I was playing around with docker by accident and guess what - it's also available on Solus.
+My way to install a "Service" on Solus is simply utilizing Docker / Docker-Compose. Works great and keeps your system clean and lean (no need to install a huge number of dependencies on your Desktop PC).
+
+
+# Resume
+I like [Solus] so much - I even installed the OS bare-metal on an older notebook (with a SSD drive) and didn't regret it. The next linux distribution I'll install on my parent's PC will be Solus of course.
+
+_**THANK YOU @SOLUS TEAM FOR YOUR INCREDIBLE WORK!!**_
 
 [Elementary]: http://elementary.io
 [Solus]: http://solus-project.com
