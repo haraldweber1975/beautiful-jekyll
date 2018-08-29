@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Review Solus Linux 3
 subtitle: Best in class Desktop Linux OS I've ever used
 date: '2018-08-28'
@@ -10,7 +10,7 @@ tags:
 ---
 No matter if you're a linux fanbox or a newbie: If you want to try out a new desktop oriented linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
 
-1. Table of contents will appear below
+1. TOC
 {:toc}
 
 ## Installing linux for fun
@@ -19,7 +19,6 @@ Installing a linux distribution is sort of a hobby for me. Recently I discovered
 You can find a lot of detailled information about this distribution on [Distrowatch]
 They also maintain a list of Operating systems by popularity (based on distrowatch site-hits).
 As of July 29th 2018 Solus ranked on **place 6 on their list** (considering data of the last 12 month).
-
 
 ## requirements to the OS
 
@@ -65,7 +64,6 @@ The Installer will ask you some basic questions like language settings, timezone
 
 After a couple of minutes the system boots and you can login with the user-account you created during setup.
 
-
 ## First Impression after booting into your new system
 It is starting fast - really fast!
 
@@ -99,7 +97,6 @@ I installed additional applications to make the system even more suitable for my
 - **Oracle Virtualbox** and **Virtualbox Extensions** to run virtual machines on linux (this will not make sense if you're already running Solus on a virtual machine.
 - **gthumb Image Viewer** enables you to view images and do basic adjustments (crop / resize / colour, etc...)
 
-
 ### SNAP support (similar to .EXE files on Windows)
 The SNAP system (by Utuntu) provides the possibility to run applications without the need to install all required dependencies on your main system.
 
@@ -109,7 +106,6 @@ For the majority of end-users it's simply too much. Therefore I appreciate the a
 
 I was playing around with docker by accident and guess what - it's also available on Solus.
 My way to install a "Service" on Solus is simply utilizing Docker / Docker-Compose. Works great and keeps your system clean and lean (no need to install a huge number of dependencies on your Desktop PC).
-
 
 ## Resume
 I like [Solus] so much - I even installed the OS bare-metal on an older notebook (with a SSD drive) and didn't regret it. The next linux distribution I'll install on my parent's PC will be Solus of course.
