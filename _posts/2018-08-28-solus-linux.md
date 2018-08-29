@@ -11,7 +11,7 @@ No matter if you're a linux fanbox or a newbie: If you want to try out a new des
 * Table of contents will appear below
 {:toc}
 
-## Installing linux for fun
+# Installing linux for fun
 
 Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack: [Solus Project][Solus]. 
 
@@ -20,7 +20,7 @@ You can find a lot of detailled information about this distribution on [Distrowa
 As of July 29th 2018 Solus ranked on **place 6 on their list** (considering data of the last 12 month).
 
 
-## My requirements to the OS
+# My requirements to the OS
 
 I always ask myself: Is it suitable for my parents?  
 They are 70+ and total computer noobs. In other words - to OS need to be noob-proof :)
