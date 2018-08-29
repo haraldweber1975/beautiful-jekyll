@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Solus Linux
 subtitle: Best in class Desktop Linux OS I ever tried out
 date: '2018-08-28'
@@ -8,6 +8,7 @@ image: /img/solus-logo.jpg
 ---
 No matter if you're a linux fanbox or a newbie: If you want to try out a new desktop oriented linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
 
+* TOC
 {:toc}
 
 ## Installing linux for fun
