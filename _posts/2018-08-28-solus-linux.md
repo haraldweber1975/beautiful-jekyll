@@ -6,19 +6,34 @@ subtitle: Best in class Desktop Linux OS I ever tried out
 date: '2018-08-28'
 image: /img/solus-logo.jpg
 ---
-No matter if you're a linux fanbox or a newbie: If you want to try out a new desktop oriented linux distribution that even beats the great [Elementary OS](http://elementary.io), continue to read my review of Solus Linux.
+No matter if you're a linux fanbox or a newbie: If you want to try out a new desktop oriented linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
+
 
 ## Intro
-Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack.
 
-[Solus Project](http://solus-project.com). 
+Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack: [Solus Project][Solus]. 
+
+You can find a lot of detailled information about this distribution on [Distrowatch.com][Distrowatch]
+[Distrowatch][Distrowatch] also maintains a list of popularity based on site-hits on distrowatch.
+As of July 29th 2018 Solus ranked on **place 6 of this list** (considering data of the last 12 month).
+
 
 ## My use case
-I always ask myself: Is it suitable for my parents?
-### OS lifecylce? Enf of support? Not with rolling release Solus
-Every OS has its lifecycle and after Windows XP reached the end of its live I moved my parents on Elementary OS as they didn't want to pay for a copy of Windows 7.
 
-Now after approx 4 years it's time to install a new version of Elementary - no need for that if you're using a rolling-release Operating System like Solus. **Install once - upgrade forever**.
+I always ask myself: Is it suitable for my parents?  
+They are 70+ and total computer noobs.
+
+
+### OS lifecylce? Enf of support? Not with rolling release Solus
+
+Every OS has its lifetime and after Windows XP reached the end of its live I moved my parents on Elementary OS as they didn't want to pay for a copy of Windows 7/8/10...
+
+Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do a in-line upgrade.
+
+
+{: .box-note}
+In Solus you will not face this issue as it is a rolling-release Operating System.  
+**Install once - upgrade forever**.
 
 ### Remote support
 
@@ -71,3 +86,7 @@ My way to install a "Service" on Solus is simply utilizing Docker / Docker-Compo
 I like it so much - I even installed the OS bare-metal on an older notebook (with a SSD drive) and didn't regret it. The next linux distribution I'll install on my parent's PC will be Solus of course.
 
 THANK YOU SOLUS TEAM FOR YOUR INCREDIBLE WORK!!
+
+[Elementary]: http://elementary.io
+[Solus]: http://solus-project.com
+[Distrowatch]: https://distrowatch.com/table.php?distribution=solus
