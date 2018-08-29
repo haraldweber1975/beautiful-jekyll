@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Solus Linux
 subtitle: Best in class Desktop Linux OS I ever tried out
 date: '2018-08-28'
