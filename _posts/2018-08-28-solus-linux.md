@@ -28,14 +28,14 @@ They are 70+ and total computer noobs.
 
 Every OS has its lifetime and after Windows XP reached the end of its live I moved my parents on Elementary OS as they didn't want to pay for a copy of Windows 7/8/10...
 
-Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do a in-line upgrade.
-
+Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do an in-line upgrade. Fresh install... time consuming and I need to ensure that every Icon / File / Link is available in the new OS.
 
 {: .box-note}
 In Solus you will not face this issue as it is a rolling-release Operating System.  
 **Install once - upgrade forever**.
 
 ### Remote support
+With Elementary I was always strugling with a proper 1-click remote-support solution. This is available in Solus through the 3rd-Party apps: **Anydesk**
 
 ### Zero maintenance
 
