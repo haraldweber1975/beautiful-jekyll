@@ -9,9 +9,6 @@ tags:
   - review
 bigimg:
   - /img/solus_people.png: For you!
-  - /img/solus_devs.png: For Devs
-  - /img/solus_gamers.png: For Gamers
-  - /img/solug_office.png: For your office needs
 ---
 No matter if you're a Linux fanbox or a newbie: If you want to try out a new desktop oriented Linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
 
