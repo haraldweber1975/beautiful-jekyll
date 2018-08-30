@@ -8,7 +8,10 @@ image: /img/solus-logo.jpg
 tags:
   - review
 bigimg:
-  - /img/solus_budgie.png: Solus Budgie Desktop
+  - /img/solus_people.png: For you!
+  - /img/solus_devs.png: For Devs
+  - /img/solus_gamers.png: For Gamers
+  - /img/solug_office.png: For your office needs
 ---
 No matter if you're a Linux fanbox or a newbie: If you want to try out a new desktop oriented Linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
 
@@ -65,6 +68,9 @@ After a couple of minutes the system boots and you can login with the user-accou
 
 ## 4. First Impression after booting into your new system
 It is starting fast - really fast!
+And it looks beautiful.
+![Solus Budgie Desktop]({{site.baseurl}}/img/solus_budgie.png)
+
 
 ### 4.1 Unclulttered desktop, well structure menu
 coming soon
