@@ -70,7 +70,7 @@ And it looks beautiful.
 ![Solus Budgie Desktop]({{site.baseurl}}/img/solus_budgie.png)
 
 
-### 4.1 Unclulttered desktop, well structure menu
+### 4.1 Unclulttered desktop, well structured menu
 coming soon
 
 ### 4.2 Appstore (Software Center)
