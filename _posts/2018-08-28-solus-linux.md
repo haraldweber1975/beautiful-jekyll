@@ -115,7 +115,7 @@ My way to install a "Service" on Solus is simply utilizing Docker / Docker-Compo
 ## 6. Resume
 I like [Solus] so much - I even installed the OS bare-metal on an older notebook (with a SSD drive) and didn't regret it. The next linux distribution I'll install on my parent's PC will be Solus of course.
 
-_**THANK YOU @SOLUS TEAM FOR YOUR INCREDIBLE WORK!!**_
+Thank you, Solus team for your incredible work! :clap: :ok_hand: :thumbsup:
 
 [Elementary]: https://elementary.io
 [Solus]: https://solus-project.com
