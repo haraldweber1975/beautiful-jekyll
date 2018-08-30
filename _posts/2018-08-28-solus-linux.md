@@ -21,7 +21,7 @@ As of July 29th 2018 Solus ranked on **place 6 on their list** (considering data
 
 ## 2. My requirements
 I always ask myself: Is it suitable for _my parents_?  
-They are 70+ and total computer noobs :sweat:. In other words - to OS need to be noob-proof :)
+They are 70+ and total computer noobs :sweat:. In other words - to OS needs to be parent-proof
 
 ### 2.1 rolling release - install once, upgrade forever
 Every OS has its lifetime and after Windows XP reached the end of its live I moved my parents on Elementary OS as they didn't want to pay for a copy of Windows 7/8/10...
