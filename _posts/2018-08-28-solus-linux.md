@@ -13,19 +13,19 @@ No matter if you're a linux fanbox or a newbie: If you want to try out a new des
 * TOC
 {:toc}
 
-## Installing linux for fun
+## 1. Installing linux for fun
 
 Installing a linux distribution is sort of a hobby for me. Recently I discovered a very nice project about a _desktop oriented_ linux distribution which is **not** based on Ubuntu / Debain / Slack: [Solus Project][Solus].  
 You can find a lot of detailled information about this distribution on [Distrowatch]
 They also maintain a list of Operating systems by popularity (based on distrowatch site-hits).
 As of July 29th 2018 Solus ranked on **place 6 on their list** (considering data of the last 12 month).
 
-## requirements to the OS
+## 2. My requirements
 
 I always ask myself: Is it suitable for my parents?  
 They are 70+ and total computer noobs. In other words - to OS need to be noob-proof :)
 
-### rolling release - install once, upgrade forever
+### 2.1 rolling release - install once, upgrade forever
 
 Every OS has its lifetime and after Windows XP reached the end of its live I moved my parents on Elementary OS as they didn't want to pay for a copy of Windows 7/8/10...
 Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do an in-line upgrade. Fresh install... time consuming and I need to ensure that every Icon / File / Link is available in the new OS.
