@@ -35,6 +35,7 @@ In Solus you will not face this issue as it is a rolling-release Operating Syste
 
 ### 2.2 Remote support
 With Elementary I was always strugling with a proper 1-click remote-support solution. This is available in Solus through the 3rd-Party apps: **Anydesk**
+![Anydesk remote desktop tool]({{site.baseurl}}/img/anydesk.png)
 
 ### 2.3 Minimal maintenance through end-user
 Wishfull thinking... Updates should be installable with least possible end-user involvement. Solus is doing a good job in notifying you about available updates.
