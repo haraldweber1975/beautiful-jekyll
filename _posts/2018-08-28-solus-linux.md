@@ -34,22 +34,22 @@ Now after approx 4 years it's time to install a new version of Elementary. Unfor
 In Solus you will not face this issue as it is a rolling-release Operating System.  
 **Install once - upgrade forever**
 
-### Remote support
+### 2.2 Remote support
 With Elementary I was always strugling with a proper 1-click remote-support solution. This is available in Solus through the 3rd-Party apps: **Anydesk**
 
-### Minimal maintenance through end-user
+### 2.3 Minimal maintenance through end-user
 Wishfull thinking... Updates should be installable with least possible end-user involvement. Solus is doing a good job in notifying you about available updates.
 
-## Installation
+## 3. Installation
 Solus comes in 3 editions. Budgie, Mate, Gnome - I have chosen the "Budgie" edition simply 'cause I have the impression this is where the developers put most effort in
 Next you need to decide how to install.
 
-### Install on VirtualBox
+### 3.1 Install on VirtualBox
 Start with this if you just want to do a **test-drive**.
 It's usually the easiest way to test-drive [Solus]
 As usual somebody already created a [Youtube video] (https://www.youtube.com/watch?v=8UgduvZQVpY) for this.
 
-### Install on bare-metal
+### 1. Install on bare-metal
 If you have spare notebook / PC, this is the recommended way. Solus in native speed without the overhead of virtualisation.
 
 ### Install on top of an existing OS (Dual/Multi boot)
