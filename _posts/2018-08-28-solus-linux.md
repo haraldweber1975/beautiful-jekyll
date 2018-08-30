@@ -24,7 +24,7 @@ I always ask myself: Is it suitable for _my parents_?
 They are 70+ and total computer noobs. In other words - to OS needs to be parent-proof :smiling_imp:
 
 ### 2.1 rolling release - install once, upgrade forever
-Every OS has its lifetime and after Windows XP reached the end of its live I moved my parents on Elementary OS as they didn't want to pay for a copy of Windows 7/8/10...
+Every OS has its lifetime and after Windows XP reached the end of its live I installed [Elementary] on their PC as they didn't want to pay for a copy of Windows 7/8/10...
 Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do an in-line upgrade. Fresh install... time consuming and I need to ensure that every Icon / File / Link is available in the new OS.
 
 {: .box-note}
