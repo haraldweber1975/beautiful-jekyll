@@ -49,7 +49,7 @@ Start with this if you just want to do a **test-drive**.
 It's usually the easiest way to test-drive [Solus]
 As usual somebody already created a [Youtube video] (https://www.youtube.com/watch?v=8UgduvZQVpY) for this.
 
-### 1. Install on bare-metal
+### - Install on bare-metal
 If you have spare notebook / PC, this is the recommended way. Solus in native speed without the overhead of virtualisation.
 
 ### Install on top of an existing OS (Dual/Multi boot)
