@@ -49,30 +49,34 @@ Start with this if you just want to do a **test-drive**.
 It's usually the easiest way to test-drive [Solus]
 As usual somebody already created a [Youtube video] (https://www.youtube.com/watch?v=8UgduvZQVpY) for this.
 
-### - Install on bare-metal
+### 3.2 Install on bare-metal
 If you have spare notebook / PC, this is the recommended way. Solus in native speed without the overhead of virtualisation.
 
-### Install on top of an existing OS (Dual/Multi boot)
+### 3.3 Install on top of an existing OS (Dual/Multi boot)
 There's an ilustrated howto avaliable on [Wikihow](https://www.wikihow.com/Install-Solus).
 I don't like the idea of having 2 OS on the same machine.  
 It's just a matter of time till one of the OS is killing the bootloader - Especially if you have Windows installed as primary/secondary OS.  
 Better use a Virtualisation system like Virtualbox.
 
-### The Installer
+### 3.4 The Installer
 As all modern Linux Operating systems [Solus] comes with a graphical installer. [Solus] will boot into a live system and you can start the installer from a desktop link.
 The Installer will ask you some basic questions like language settings, timezone, etc... No issues at all.
 
 After a couple of minutes the system boots and you can login with the user-account you created during setup.
 
-## First Impression after booting into your new system
+## 4. First Impression after booting into your new system
 It is starting fast - really fast!
 
-### Unclulttered desktop, well structure menu
+### 4.1 Unclulttered desktop, well structure menu
+coming soon
 
-### Appstore (Software Center)
+### 4.2 Appstore (Software Center)
+coming soon
 
-## Installing Software
-Solus comes with a vast number of already pre-installed applications like 
+## 5. Software
+Solus comes with a vast number of already pre-installed applications
+
+### 5.1 pre-installed Applications
 - **Libre office** which will cover all your "office" needs like writing, presenting, calculating and drawing 
 - **Archive Manager** to handle ZIP archives
 - **Firefox or WEB** to browser the web
@@ -81,10 +85,10 @@ Solus comes with a vast number of already pre-installed applications like
 - **Rhythmbox** to listen to your music
 - **Files** to manage your files (another surprising name)
 - **Videos** to view ... guess what
+You can either use the graphical **Software Center** or the command line tool **eopkg**
 
-### Recommended software to install
+### 5.2 Recommended additional software
 I installed additional applications to make the system even more suitable for my needs.
-
 - **Albert** to quickly search applications, basic math and quick translations without leaving the keyboard
 - **Geary** a beautiful and minimal email client (The default email client on Elementary OS)
 - **Opera** to browse the web with style, adblocker, optional free-of-charge vpn
@@ -97,21 +101,23 @@ I installed additional applications to make the system even more suitable for my
 - **Oracle Virtualbox** and **Virtualbox Extensions** to run virtual machines on linux (this will not make sense if you're already running Solus on a virtual machine.
 - **gthumb Image Viewer** enables you to view images and do basic adjustments (crop / resize / colour, etc...)
 
-### SNAP support (similar to .EXE files on Windows)
+### 5.3 SNAP support (similar to .EXE files on Windows)
 The SNAP system (by Utuntu) provides the possibility to run applications without the need to install all required dependencies on your main system.
 
-### Docker to the help: Run services like Squid / Nextcloud / nginx / Apache...
-If you're using an Ubuntu based system you have access to literaly millians of packages.
-For the majority of end-users it's simply too much. Therefore I appreciate the approach of Solus to NOT integrate as many services as possible. There are other Linux distributions for that.
+### 5.4 Docker to the help for power-users
+Compared to Ubuntu the package repositiry of Solus does not include a lot of "Server software" like Squid, Nextcloud, Apache...
+For the majority of end-users it's simply not required. Therefore I appreciate the approach of Solus to NOT integrate as many services as possible. There are other Linux distributions for that.
 
-I was playing around with docker by accident and guess what - it's also available on Solus.
+I was playing around with [Docker] by accident and guess what - it's also available on Solus.
 My way to install a "Service" on Solus is simply utilizing Docker / Docker-Compose. Works great and keeps your system clean and lean (no need to install a huge number of dependencies on your Desktop PC).
 
-## Resume
+## 6. Resume
 I like [Solus] so much - I even installed the OS bare-metal on an older notebook (with a SSD drive) and didn't regret it. The next linux distribution I'll install on my parent's PC will be Solus of course.
 
 _**THANK YOU @SOLUS TEAM FOR YOUR INCREDIBLE WORK!!**_
 
-[Elementary]: http://elementary.io
-[Solus]: http://solus-project.com
+[Elementary]: https://elementary.io
+[Solus]: https://solus-project.com
 [Distrowatch]: https://distrowatch.com/table.php?distribution=solus
+[Ubuntu]: https//www.ubuntu.com
+[Docker]: https://www.docker.com
