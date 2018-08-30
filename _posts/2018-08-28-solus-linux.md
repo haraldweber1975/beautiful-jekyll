@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Review Solus Linux 3
+title: Review of Solus Linux 3
 subtitle: Best in class Desktop Linux OS I've ever used
 date: '2018-08-28'
 image: /img/solus-logo.jpg
@@ -42,7 +42,7 @@ Solus comes in 3 editions. Budgie, Mate, Gnome - I have chosen the "Budgie" edit
 Next you need to decide how to install.
 
 ### 3.1 Install on VirtualBox
-Start with this if you just want to do a **test-drive**.
+Start with VirtualBox if you just want to do a **test-drive**.
 It's usually the easiest way to test-drive [Solus]
 As usual somebody already created a [Youtube video] (https://www.youtube.com/watch?v=8UgduvZQVpY) for this.
 
