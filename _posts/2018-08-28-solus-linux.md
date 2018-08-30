@@ -22,8 +22,8 @@ As of July 29th 2018 Solus ranked on **place 6 on their list** (considering data
 
 ## 2. My requirements
 
-I always ask myself: Is it suitable for my parents?  
-They are 70+ and total computer noobs. In other words - to OS need to be noob-proof :)
+I always ask myself: Is it suitable for _my parents_?  
+They are 70+ and total computer noobs {:sweat:}. In other words - to OS need to be noob-proof :)
 
 ### 2.1 rolling release - install once, upgrade forever
 
