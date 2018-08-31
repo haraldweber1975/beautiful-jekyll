@@ -6,6 +6,7 @@ tags:
 layout: post
 subtitle: Best in class Desktop Linux OS I've ever used
 image: "/img/solus-logo.jpg"
+bigimg: "/img/solus_banner.jpg"
 ---
 
 No matter if you're a Linux fanbox or a newbie: If you want to try out a new desktop oriented Linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
@@ -58,6 +59,7 @@ Better use a Virtualisation system like Virtualbox.
 
 ### 3.4 Running the Installer
 As all modern Linux Operating systems [Solus] comes with a graphical installer. [Solus] will boot into a live system and you can start the installer from a desktop link.
+![Solus Install](/img/solus_install.jpg)
 The Installer will ask you some basic questions like language settings, timezone, etc... No issues at all.
 
 After a couple of minutes the system boots and you can login with the user-account you created during setup.
@@ -65,14 +67,14 @@ After a couple of minutes the system boots and you can login with the user-accou
 ## 4. First Impression after booting into your new system
 It is starting fast - really fast!
 And it looks beautiful.
-![Solus Budgie Desktop]({{site.baseurl}}/img/solus_budgie.png)
+![Solus Budgie Desktop](/img/solus_budgie.png)
 
 
 ### 4.1 Unclulttered desktop, well structured menu
-coming soon
+![Solus Budgie Desktop](/img/solus_desktop.png)
 
 ### 4.2 Appstore (Software Center)
-coming soon
+![Software Center](/img/solus_softwarecenter.png)
 
 ## 5. Software
 Solus comes with a vast number of already pre-installed applications
@@ -104,6 +106,7 @@ I installed additional applications to make the system even more suitable for my
 
 ### 5.3 SNAP support (similar to .EXE files on Windows)
 The SNAP system (by Utuntu) provides the possibility to run applications without the need to install all required dependencies on your main system.
+![Snap support!](/img/solus_snap.png)
 
 ### 5.4 Docker to the help for power-users
 Compared to Ubuntu the package repositiry of Solus does not include a lot of "Server software" like Squid, Nextcloud, Apache...
@@ -111,8 +114,8 @@ For the majority of end-users it's simply not required. Therefore I appreciate t
 
 I was playing around with [Docker] by accident and guess what - it's also available on Solus.
 My way to install a "Service" on Solus is simply utilizing Docker / Docker-Compose. Works great and keeps your system clean and lean (no need to install a huge number of dependencies on your Desktop PC).
+![Docker](/img/solus_docker.png)
 
-## 6. Resume
 I like [Solus] so much - I even installed the OS bare-metal on an older notebook (with a SSD drive) and didn't regret it. The next linux distribution I'll install on my parent's PC will be Solus of course.
 
 Thank you, Solus team for your incredible work! :clap: :ok_hand: :thumbsup:
