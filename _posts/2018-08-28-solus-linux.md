@@ -1,13 +1,13 @@
 ---
-layout: post
-published: true
 title: Review of Solus Linux 3
-subtitle: Best in class Desktop Linux OS I've ever used
-date: '2018-08-28'
-image: /img/solus-logo.jpg
+date: 2018-08-28 00:00:00 +02:00
 tags:
-  - review
+- review
+layout: post
+subtitle: Best in class Desktop Linux OS I've ever used
+image: "/img/solus-logo.jpg"
 ---
+
 No matter if you're a Linux fanbox or a newbie: If you want to try out a new desktop oriented Linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
 
 * TOC

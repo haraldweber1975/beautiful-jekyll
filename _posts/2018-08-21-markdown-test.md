@@ -1,12 +1,14 @@
 ---
-layout: post
 title: Markdown Test
+date: 2018-08-21 00:00:00 +02:00
+tags:
+- markdown
+- test
+layout: post
 subtitle: Each post can have a subtitle
-image: /img/markdown.jpg
-#gh-repo: daattali/beautiful-jekyll
-#gh-badge: [star, fork, follow]
-tags: [markdown, test]
+image: "/img/markdown.jpg"
 ---
+
 Experimenting with markdown in this post.
 
 [This Link](https://kramdown.gettalong.org/quickref.html) provides a quick reference to Kramdown, which is the markdown dialect used by jekyll.

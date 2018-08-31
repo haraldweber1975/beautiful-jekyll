@@ -1,10 +1,11 @@
 ---
-layout: post
 title: My first post!
-image: /img/hello_world.jpeg
-published: true
+date: 2018-08-20 00:00:00 +02:00
+layout: post
+image: "/img/hello_world.jpeg"
 subtitle: Starting from scratch again
 ---
+
 This is my first post, how exciting!
 After years of not publishing anything I'd like to put new life into my blog.
 

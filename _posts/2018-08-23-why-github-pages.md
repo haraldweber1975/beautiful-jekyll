@@ -1,13 +1,14 @@
 ---
-layout: post
-published: true
 title: Why GitHub pages?
-subtitle: from zero to hero in 3 mintes
-image: /img/github3.jpg
-share-img: /img/github3.jpg
+date: 2018-08-23 00:00:00 +02:00
 tags:
-  - github pages
+- github pages
+layout: post
+subtitle: from zero to hero in 3 mintes
+image: "/img/github3.jpg"
+share-img: "/img/github3.jpg"
 ---
+
 This post will tell you why and how I started to blog on GitHub Pages
 
 ## Motivation

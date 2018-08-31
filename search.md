@@ -1,6 +1,6 @@
 ---
+title: Search haraldweber.net
 layout: default
-title: "Search haraldweber.net"
 css: "/css/search.css"
 ---
 
