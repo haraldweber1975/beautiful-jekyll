@@ -220,6 +220,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 163)
   jekyll-paginate
+  jekyll-seo-tag
 
 BUNDLED WITH
-   1.16.1
+   1.16.4
