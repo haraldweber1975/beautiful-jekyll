@@ -9,7 +9,7 @@ image: "/img/solus-logo.jpg"
 bigimg: "/img/solus_banner.jpg"
 ---
 
-No matter if you're a Linux fanbox or a newbie: If you want to try out a new desktop oriented Linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
+No matter if you're a Linux fanboy or a newbie: If you want to try out a new desktop oriented Linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
 
 * TOC
 {:toc}
