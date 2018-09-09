@@ -5,13 +5,14 @@ subtitle:
 show-avatar: false
 comments: false
 bigimg:
-- "/img/bg_sunrise1.jpg": Sunrise over Illertissen
+- "/img/bg_moon1.jpg": Moon
 - "/img/bg_kids1.jpg": My Kids
 - "/img/bg_family1.jpg": My Family
-- "/img/bg_dog1.jpg": My Dog
-- "/img/bg_sunrise2.jpg": Another Sunrise over Illertissen
+- "/img/bg_dog1.jpg": Our Dog Jody
+- "/img/bg_sunrise2.jpg": Sunrise over Illertissen
 - "/img/bg_kids2.jpg": My Kids
-- "/img/bg_butterfly1.jpg": Butterfly in the garden
+- "/img/bg_butterfly1.jpg": Butterfly in our garden
+- "/img/bg_winter1.jpg": Nice winter scene in Illertissen
 ---
 
 I am Harald, living in a small town called Illertissen near Ulm in Germany - Earth. 

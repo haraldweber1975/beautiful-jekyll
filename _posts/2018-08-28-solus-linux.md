@@ -6,7 +6,7 @@ tags:
 layout: post
 subtitle: Best in class Desktop Linux OS I've ever used
 image: "/img/solus-logo.jpg"
-bigimg: "/img/solus_banner.jpg"
+bigimg: "/img/solus-banner.png"
 ---
 
 No matter if you're a Linux fanbox or a newbie: If you want to try out a new desktop oriented Linux distribution that even beats the great [Elementary OS][Elementary], continue to read my review of [Solus Linux][Solus].
@@ -26,11 +26,11 @@ They are 70+ and total computer noobs. In other words - to OS needs to be parent
 
 ### 2.1 rolling release - install once, upgrade forever
 Every OS has its lifetime and after Windows XP reached the end of its live I installed [Elementary] on their PC as they didn't want to pay for a copy of Windows 7/8/10...
-Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do an in-line upgrade. Fresh install... time consuming and I need to ensure that every Icon / File / Link is available in the new OS.
+Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do an in-line upgrade. Fresh install... time consuming and I need to ensure that every Icon / File / Link is available in the new OS.  
+In Solus you will not face this issue as it is a rolling-release Operating System.
 
 {: .box-note}
-In Solus you will not face this issue as it is a rolling-release Operating System.  
-**Install once - upgrade forever**
+**Install once - upgrade forever!**
 
 ### 2.2 Remote support
 With Elementary I was always strugling with a proper 1-click remote-support solution. This is available in Solus through the 3rd-Party apps: **Anydesk**
@@ -77,7 +77,7 @@ And it looks beautiful.
 ![Software Center](/img/solus_softwarecenter.png)
 
 ## 5. Software
-Solus comes with a vast number of already pre-installed applications
+Solus comes with a vast number of already pre-installed applications. You can easily install software with the integrated package manager, Snaps or Docker.
 
 ### 5.1 pre-installed Applications
 - **Libre office** which will cover all your "office" needs like writing, presenting, calculating and drawing 
