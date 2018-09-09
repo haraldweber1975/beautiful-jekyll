@@ -23,8 +23,7 @@ defaults:
     show-avatar: true
 url: https://haraldweber.net
 baseurl: ''
-description: Website of Harald Weber, Illertissen, working for Teva ratiopharm since
-  2000
+description: Website of Harald Weber living in Illertissen. Working as IT Operations delivery manager for Teva ratiopharm Ulm since 2000
 navbar-links:
   About Me: aboutme
   #  Links:
@@ -123,3 +122,4 @@ plugins:
 - jekyll-paginate
 - jekyll-sitemap
 - jemoji
+- jekyll-seo-tag
