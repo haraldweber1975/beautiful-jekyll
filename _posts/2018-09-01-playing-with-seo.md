@@ -4,7 +4,7 @@ title: Playing with SEO
 subtitle: Search Engine Optimisation is the key to make your site discoverable for people 
 layout: post
 image: "/img/seo.png"
-published: false
+published: true
 tags:
 - seo
 
@@ -30,7 +30,7 @@ In this post I'll sharae the approach, facts and links I'm using to optimize thi
 **A:** It depends :D
 
 This little game brings you to the __key question__
-1. What are the **top 10 search engines** 
+1. What are the **top search engines** 
 2. What makes your site **unique** on the internet?
 3. How can you improve your websites ranking when people search for **you**
 
@@ -41,10 +41,21 @@ And guess what - all major search engines I knew are in the top 10 list.
 I decided that I want to optimise my site for Google, Bing and Duckduckgo
 
 ## 2. Now bring some SEO to your site to make it unique
+I had to add the text 
 
-## 3. Register your site on Google and Bing
+<!-- {% raw %} -->
+  ```liquid
+  {% seo %}
+  ```
+<!-- {% endraw %} -->
 
-# Links
+right before the <HEAD> tag in the file _includes/head.html of my template.
+
+## 3. Register your site on Google, Bing etc.
+
+Use these links to register your site with some of the largest search engines on the planet.
+The process will differ from site to site, but in most cases you have to have access to your domain configuration
+
 - [Google Search Sitemap](https://search.google.com/search-console/sitemaps/)
 - [Bing Webmaster Sitemaps](https:/www.bing.com/webmaster/configure/sitemaps/)
 - [Google analytics](https://analytics.google.com/)
