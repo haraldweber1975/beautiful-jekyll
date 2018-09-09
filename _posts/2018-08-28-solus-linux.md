@@ -25,7 +25,7 @@ I always ask myself: Is it suitable for _my parents_?
 They are 70+ and total computer noobs. In other words - to OS needs to be parent-proof :smiling_imp:
 
 ### 2.1 rolling release - install once, upgrade forever
-Every OS has its lifetime and after Windows XP reached the end of its live I installed [Elementary] on their PC as they didn't want to pay for a copy of Windows 7/8/10...
+Every OS has its lifetime and after Windows XP reached the end of its live I installed [Elementary] on my parents PC as they didn't want to pay for a copy of Windows 7/8/10...
 Now after approx 4 years it's time to install a new version of Elementary. Unfortunately it's not possible to do an in-line upgrade. Fresh install... time consuming and I need to ensure that every Icon / File / Link is available in the new OS.  
 In Solus you will not face this issue as it is a rolling-release Operating System.
 
@@ -72,9 +72,20 @@ And it looks beautiful.
 
 ### 4.1 Unclulttered desktop, well structured menu
 ![Solus Budgie Desktop](/img/solus_desktop.png)
+I never liked the approach of Windows with the new "Start Menu". And I'm also not a big fan of Apple's "Launcher".
+Both are cluttered with uneuseful stuff and make it necessary for end-users to customize them.  
+
+Again something my parents will likely never do.
+The good old start menu of Windows XP is a much cleaner/zero maintenance approach in my opinion.  
+
+{: .box-warning}
+**Tip:** If you don't like to leave the keyboard, you can use the "Windows" key to open the start-menu and simply type the program name to launch. Solus will show appropriate options while you type.
 
 ### 4.2 Appstore (Software Center)
+Nearly every linux comes with a sort of "Appstore" these days. Usually this is just a graphical front-end to a package manager running in the background. Solus does not differ here. There's no business model behind the software center allowing you to buy software for example.
 ![Software Center](/img/solus_softwarecenter.png)
+
+There's one special category named **Third Party** where you can find software like Plex, Skype, Google Chrome and Enpass - just to name a few.
 
 ## 5. Software
 Solus comes with a vast number of already pre-installed applications. You can easily install software with the integrated package manager, Snaps or Docker.
