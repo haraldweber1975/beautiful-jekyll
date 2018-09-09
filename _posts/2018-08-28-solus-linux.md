@@ -81,16 +81,18 @@ The good old start menu of Windows XP is a much cleaner/zero maintenance approac
 {: .box-warning}
 **Tip:** If you don't like to leave the keyboard, you can use the "Windows" key to open the start-menu and simply type the program name to launch. Solus will show appropriate options while you type.
 
-### 4.2 Appstore (Software Center)
+
+## 5. Software
+Solus comes with a vast number of already pre-installed applications. You can easily install software with the integrated package manager, Snaps or Docker.
+
+### 5.1 Appstore (Software Center)
 Nearly every linux comes with a sort of "Appstore" these days. Usually this is just a graphical front-end to a package manager running in the background. Solus does not differ here. There's no business model behind the software center allowing you to buy software for example.
 ![Software Center](/img/solus_softwarecenter.png)
 
 There's one special category named **Third Party** where you can find software like Plex, Skype, Google Chrome and Enpass - just to name a few.
 
-## 5. Software
-Solus comes with a vast number of already pre-installed applications. You can easily install software with the integrated package manager, Snaps or Docker.
 
-### 5.1 pre-installed Applications
+### 5.2 pre-installed Applications
 - **Libre office** which will cover all your "office" needs like writing, presenting, calculating and drawing 
 - **Archive Manager** to handle ZIP archives
 - **Firefox or WEB** to browser the web
@@ -101,7 +103,7 @@ Solus comes with a vast number of already pre-installed applications. You can ea
 - **Videos** to view ... guess what
 You can either use the graphical **Software Center** or the command line tool **eopkg**
 
-### 5.2 Recommended additional software
+### 5.3 Recommended additional software
 I installed additional applications to make the system even more suitable for my needs.
 - **Albert** to quickly search applications, basic math and quick translations without leaving the keyboard
 - **Geary** a beautiful and minimal email client (The default email client on Elementary OS)
@@ -115,11 +117,11 @@ I installed additional applications to make the system even more suitable for my
 - **Oracle Virtualbox** and **Virtualbox Extensions** to run virtual machines on linux (this will not make sense if you're already running Solus on a virtual machine.
 - **gthumb Image Viewer** enables you to view images and do basic adjustments (crop / resize / colour, etc...)
 
-### 5.3 SNAP support (similar to .EXE files on Windows)
+### 5.4 SNAP support (similar to .EXE files on Windows)
 The SNAP system (by Utuntu) provides the possibility to run applications without the need to install all required dependencies on your main system.
 ![Snap support!](/img/solus_snap.png)
 
-### 5.4 Docker to the help for power-users
+### 5.5 Docker to the help for power-users
 Compared to Ubuntu the package repositiry of Solus does not include a lot of "Server software" like Squid, Nextcloud, Apache...
 For the majority of end-users it's simply not required. Therefore I appreciate the approach of Solus to NOT integrate as many services as possible. There are other Linux distributions for that.
 
