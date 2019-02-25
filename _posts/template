@@ -1,0 +1,11 @@
+---
+title: Put title here
+date: 2019-06-30 00:00:00 +02:00
+tags:
+- review
+layout: post
+subtitle: Subtitle
+image: "/img/solus-logo.jpg"
+bigimg: "/img/solus-banner.png"
+---
+Just an example template
