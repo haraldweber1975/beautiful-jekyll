@@ -43,21 +43,25 @@ Wishfull thinking... Updates should be installable with least possible end-user 
 Solus comes in 3 editions. Budgie, Mate, Gnome - I have chosen the "Budgie" edition simply 'cause I have the impression this is where the developers put most effort in
 Make your choice and continue with the options below.
 
-### 3.1 Install on VirtualBox
+### 3.1 Run from live CD
+You can easily burn a CD / create a bootable USB thumbdrive and run Solus from it.
+Of course you'll not enjoy the full speed of the OS.
+
+### 3.2 Install on VirtualBox
 Start with VirtualBox if you just want to do a **test-drive**.
 It's usually the easiest way to test-drive [Solus]
 As usual somebody already created a [Youtube video] (https://www.youtube.com/watch?v=8UgduvZQVpY) for this.
 
-### 3.2 Install on bare-metal
+### 3.3 Install on bare-metal
 If you have spare notebook / PC, this is the recommended way. Solus in native speed without the overhead of virtualisation.
 
-### 3.3 Install on top of an existing OS (Dual/Multi boot)
+### 3.4 Install on top of an existing OS (Dual/Multi boot)
 There's an ilustrated howto avaliable on [Wikihow](https://www.wikihow.com/Install-Solus).
-I don't like the idea of having 2 OS on the same machine.  
+I don't like the idea of having 2 dedicated OS on the same machine sharing the same harddrive.  
 It's just a matter of time till one of the OS is killing the bootloader - Especially if you have Windows installed as primary/secondary OS.  
 Better use a Virtualisation system like Virtualbox.
 
-### 3.4 Running the Installer
+### 3.5 Running the Installer
 As all modern Linux Operating systems [Solus] comes with a graphical installer. [Solus] will boot into a live system and you can start the installer from a desktop link.
 ![Solus Install](/img/solus_install.jpg)
 The Installer will ask you some basic questions like language settings, timezone, etc... No issues at all.
