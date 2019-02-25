@@ -18,7 +18,7 @@ Experimenting with markdown in this post.
 1. TOC
 {:toc}
 
-##cSome usefull links
+## Some usefull links
 [This Link](https://kramdown.gettalong.org/quickref.html) provides a quick reference to Kramdown, which is the markdown dialect used by jekyll.
 
 ## Text formating
