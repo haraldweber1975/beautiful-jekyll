@@ -57,7 +57,7 @@ Use these links to register your site with some of the largest search engines on
 The process will differ from site to site, but in most cases you have to have access to your domain configuration
 
 - [Google Search Sitemap](https://search.google.com/search-console)
-- [Bing Webmaster Sitemaps](https:/www.bing.com/webmaster)
+- [Bing Webmaster Sitemaps](https://www.bing.com/webmaster)
 - [Google analytics](https://analytics.google.com)
 
 
