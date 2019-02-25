@@ -80,7 +80,7 @@ foo(3)
 {: .box-warning}
 **Warning:** This is a warning box.
 
-###Error Box
+## Error Box
 
 {: .box-error}
 **Error:** This is an error box.
