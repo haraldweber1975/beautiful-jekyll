@@ -56,8 +56,8 @@ right before the <HEAD> tag in the file _includes/head.html of my template.
 Use these links to register your site with some of the largest search engines on the planet.
 The process will differ from site to site, but in most cases you have to have access to your domain configuration
 
-- [Google Search Sitemap](https://search.google.com/search-console/sitemaps/)
-- [Bing Webmaster Sitemaps](https:/www.bing.com/webmaster/configure/sitemaps/)
-- [Google analytics](https://analytics.google.com/)
+- [Google Search Sitemap](https://search.google.com/search-console)
+- [Bing Webmaster Sitemaps](https:/www.bing.com/webmaster)
+- [Google analytics](https://analytics.google.com)
 
 
