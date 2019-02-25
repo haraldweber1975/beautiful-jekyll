@@ -134,7 +134,7 @@ I like [Solus] so much - I even installed the OS bare-metal on an older notebook
 Thank you, Solus team for your incredible work! :clap: :ok_hand: :thumbsup:
 
 [Elementary]: https://elementary.io
-[Solus]: https://solus-project.com
+[Solus]: https://getsol.us
 [Distrowatch]: https://distrowatch.com/table.php?distribution=solus
 [Ubuntu]: https//www.ubuntu.com
 [Docker]: https://www.docker.com
