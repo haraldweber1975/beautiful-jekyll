@@ -48,8 +48,8 @@ share-links-active:
   google: false
   linkedin: true
 url-pretty: haraldweber.net
-google_analytics: false
-disqus: false
+google_analytics: UA-124499015-1
+disqus: haraldweber-net
 excerpt_length: 50
 title-separator: "----"
 markdown: kramdown
