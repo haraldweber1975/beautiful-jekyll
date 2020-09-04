@@ -49,7 +49,7 @@ share-links-active:
   linkedin: true
 url-pretty: haraldweber.net
 google_analytics: false
-disqus: haraldweber-net
+disqus: false
 excerpt_length: 50
 title-separator: "----"
 markdown: kramdown
